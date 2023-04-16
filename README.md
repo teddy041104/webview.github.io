@@ -1,2 +1,1 @@
-# webview.github.io
-a web share site
+# 自用静态网站
